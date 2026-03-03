@@ -2,9 +2,7 @@
 
 ## Análisis de Sentimientos Basado en Aspectos (ABSA) para el Sector Turístico
 
-Este repositorio contiene el prototipo funcional desarrollado para mi Trabajo de Titulación de Maestría en Inteligencia Artificial Aplicada en la UTPL. El sistema utiliza modelos de lenguaje de gran escala (LLMs) para transformar reseñas no estructuradas en inteligencia estratégica para la gestión de destinos turísticos.
-
-Este repositorio alberga el prototipo funcional para mi Trabajo de Titulación de Maestría en Inteligencia Artificial Aplicada. El sistema implementa un Pipeline Híbrido que extrae sentimientos granulares de reseñas turísticas, combinando el razonamiento de Gemini 2.5 Flash con un motor de reglas morfológicas bilingües.
+Este repositorio alberga el prototipo funcional de mi Trabajo de Titulación de Maestría en Inteligencia Artificial Aplicada (UTPL). El sistema implementa un Pipeline Híbrido que extrae sentimientos granulares de reseñas turísticas, combinando el razonamiento avanzado de Gemini 2.5 Flash con un motor de reglas morfológicas bilingües para transformar datos no estructurados en inteligencia estratégica.
 
 ## Descripción del Proyecto
 
