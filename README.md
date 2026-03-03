@@ -57,3 +57,10 @@ Este proyecto se distribuye bajo la licencia MIT. Para más detalles, consulta e
 Angel David Pardo Correa Maestría en Inteligencia Artificial Aplicada - UTPL.
 
 adpardo1@utpl.edu.ec
+
+
+## Licencia
+
+Este proyecto está bajo la **Licencia MIT**. Esto significa que eres libre de usar, copiar, modificar y distribuir el código, siempre que se mantenga la nota de derechos de autor y el texto de la licencia en las copias.
+
+Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
